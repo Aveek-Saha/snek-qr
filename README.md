@@ -1,9 +1,9 @@
 # Snek QR
 
-Create a game of snake thats less than ~2.8 KB, which is the maximum amount of binary data a QR code can hold.
+A game of snake thats less than ~2.8 KB, which is the maximum amount of binary data a QR code can hold.
 
 #### Can you fit a game of snake on a QR code?
-The answer is **yes**, and `Matt KC` goes through the process in this great video: https://www.youtube.com/watch?v=ExwqNreocpg.
+The answer is **yes**, and `Matt KC` goes through the process in this great video: https://www.youtube.com/watch?v=ExwqNreocpg. You can also read his [post](https://itsmattkc.com/etc/snakeqr/)
 
 #### So what's this project for?
 The code or the exact steps used in the video weren't linked, so I wanted to chalenge myself to see if I could do it. I've taken a slightly different
@@ -62,4 +62,4 @@ These are the tools I used to minimize my file size.
 
 ## Credits
 
-Credits for this idea and the modified version of `zbarcam` go to @itsmattkc
+Credits for this idea and the modified version of `zbarcam` go to [@itsmattkc](https://github.com/itsmattkc)
